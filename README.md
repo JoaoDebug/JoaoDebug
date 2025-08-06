@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/JoaoDebug">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDebug&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDebug&layout=compact&langs_count=16&theme=dark&cache_seconds=0"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
